@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a simple blog I created while learning React following <a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d" target="_blank">Net Ninja's React Tutorial</a>.
+This is a simple blog I created while learning React following [Net Ninja's React Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d).
 
 It features a blog archive, viewing single blogs, deleting blogs, and creating new blogs. There is no user authentication at this time.
 
