@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "title": "Best Blog Ever!",
+      "body": "This is the best blog ever!!!",
+      "author": "Caroline"
+    },
+    {
+      "id": "3",
+      "title": "Who is the GOAT of the NBA?",
+      "body": "LeBron James is the best player in NBA history. Let me tell you why.",
+      "author": "Cody"
+    },
+    {
+      "id": "5330",
+      "title": "A Short Story",
+      "body": "One time, I saw this blog. It was called the Bolt Blog. It was really basic, but eventually, it will have more features and be much cooler.",
+      "author": "Collin"
+    },
+    {
+      "id": "2394",
+      "title": "Why Rudy Gobert should not with Defensive Player of the Year in 2024",
+      "body": "Anthony Davis exists. And he's much better. I mean just look at him.",
+      "author": "Cody"
+    }
+  ]
+}

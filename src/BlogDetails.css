@@ -1,0 +1,20 @@
+/* blog details */
+.blog-details .title {
+    font-size: 20px;
+    color: #3686fe;
+    margin-bottom: 10px;
+}
+
+.blog-details .blog-content {
+    margin: 20px 0;
+}
+
+.blog-details .delete-blog-btn {
+    background: #3686fe;
+    color: #fff;
+    border: 0;
+    padding: 8px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+/* blog details end */
